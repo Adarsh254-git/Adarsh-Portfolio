@@ -283,7 +283,7 @@
 /* -------------Footer-------------- */
 footer {
   background: #232323;
-  height: 60vh;
+  padding-bottom:1%;
 }
 .name-link {
   text-decoration: none;
