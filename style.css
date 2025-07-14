@@ -144,9 +144,7 @@
   font-weight: 200;
   line-height: 1.5;
 }
-.lead p{
-  color:#fff;
-}
+
 
 .btn {
   background-color: #f8c61e;
@@ -168,7 +166,7 @@
 .section-caption p {
   font-weight: 200;
   line-height: 1.5;
-  color: rgba(255, 255, 255, 0.4);
+  color: #fff;
 }
 
 /* --------------Skill Section----------------- */
